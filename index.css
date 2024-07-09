@@ -1,0 +1,14 @@
+.profile a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+   padding-right: 390px;
+}
+span{
+    border: solid 3px;
+    border-color: bisque;
+}
+input{
+    border: none;
+}
